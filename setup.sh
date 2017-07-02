@@ -1,0 +1,2 @@
+cd pose
+./compile.sh
